@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "description": "Perfect for individuals looking to build a professional presence online.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "Free",
+    "tagType": "new",
+    "features": ["3 Basic Templates", "Manual PDF Export", "Community Support"],
+    "icon": "https://i.ibb.co.com/DHkX9sLZ/writing-2327400-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Pro Builder",
+    "description": "The ultimate toolkit for serious job seekers and developers.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": [
+      "50+ Premium Templates",
+      "ATS Optimization",
+      "Unlimited Exports",
+      "Priority Email Support"
+    ],
+    "icon": "https://i.ibb.co.com/zWT4YvcF/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Enterprise Suite",
+    "description": "Advanced features for teams and high-volume recruiting agencies.",
+    "price": 199,
+    "period": "yearly",
+    "tag": "Most Value",
+    "tagType": "best seller",
+    "features": [
+      "150+ Templates",
+      "Custom Branding",
+      "Team Collaboration Tools",
+      "Dedicated Account Manager",
+      "API Access"
+    ],
+    "icon": "https://i.ibb.co.com/kVSsMjHT/Group-7.png"
+  },
+  {
+    "id": 4,
+    "name": "AI Content Writer",
+    "description": "Leverage AI to generate high-converting descriptions automatically.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "AI Powered",
+    "tagType": "new",
+    "features": [
+      "Unlimited AI Keywords",
+      "Grammar Check",
+      "Tone Adjustment",
+      "Multi-language Support"
+    ],
+    "icon": "https://i.ibb.co.com/27X6T0tQ/operation.png"
+  },
+  {
+    "id": 5,
+    "name": "Design Pro Add-on",
+    "description": "Unlock advanced CSS controls and custom fonts for your projects.",
+    "price": 25,
+    "period": "one-time",
+    "tag": "Upgrade",
+    "tagType": "popular",
+    "features": [
+      "Custom CSS Editor",
+      "Google Fonts Integration",
+      "SVG Icon Pack",
+      "Dark Mode Toggle"
+    ],
+    "icon": "https://i.ibb.co.com/zhj4Y8G8/portfolio.png"
+  },
+  {
+    "id": 6,
+    "name": "Analytics Dashboard",
+    "description": "Track how many people are viewing your profile or products in real-time.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "Insight",
+    "tagType": "best seller",
+    "features": [
+      "Real-time Visitor Map",
+      "Conversion Tracking",
+      "Weekly PDF Reports",
+      "Device Breakdown"
+    ],
+    "icon": "https://i.ibb.co.com/qYbjF3b6/social-media.png"
+  }
+]
