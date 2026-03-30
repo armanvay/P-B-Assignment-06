@@ -3,8 +3,8 @@ import { FaCartPlus } from "react-icons/fa6";
 
 const Navbar = ({ cards }) => {
   return (
-    <nav className="max-w-11/12 mx-auto flex items-center justify-between px-8 py-5 border-b border-gray-100 bg-white">
-      <div className="text-3xl font-bold bg-gradient-to-r from-purple-600 via-violet-600 to-indigo-600 bg-clip-text text-transparent">
+    <nav className="max-w-11/12 mx-auto flex items-center justify-between px-8 md:py-5 border-b border-gray-100 bg-white">
+      <div className="text-3xl max-sm:mr-4 font-bold bg-gradient-to-r from-purple-600 via-violet-600 to-indigo-600 bg-clip-text text-transparent">
         DigiTools
       </div>
 
@@ -40,7 +40,7 @@ const Navbar = ({ cards }) => {
 
         <a
           href="#"
-          className="text-gray-700 hover:text-purple-600 font-medium transition-colors"
+          className="text-gray-700 max-sm:hidden hover:text-purple-600 font-medium transition-colors"
         >
           Login
         </a>
