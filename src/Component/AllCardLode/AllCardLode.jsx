@@ -6,7 +6,7 @@ const AllCardLode = ({ data, cards, setCard }) => {
 //   console.log(card);
 
   return (
-    <div className="max-w-7xl mx-auto grid md:grid-cols-3 sm:grid-cols-4 gap-10">
+    <div className="w-10/12 mx-auto grid md:grid-cols-3 sm:grid-cols-4 gap-10">
       {card.map((card) => (
         <CardShow key={card.id} card={card} cards={cards} setCard={setCard}></CardShow>
       ))}
