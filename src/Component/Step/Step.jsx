@@ -18,7 +18,7 @@ const Step = () => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="relative bg-white rounded-2xl shadow-sm border p-10 text-center">
+            <div className="relative hover:shadow-2xl transition-all bg-white rounded-2xl shadow-sm border p-10 text-center">
               <span className="absolute top-4 right-4 bg-gradient-to-r from-purple-600 via-violet-600 to-indigo-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center">
                 01
               </span>
@@ -36,7 +36,7 @@ const Step = () => {
               </p>
             </div>
 
-            <div className="relative bg-white rounded-2xl shadow-sm border p-10 text-center">
+            <div className="relative hover:shadow-2xl transition-all bg-white rounded-2xl shadow-sm border p-10 text-center">
               <span className="absolute top-4 right-4 bg-gradient-to-r from-purple-600 via-violet-600 to-indigo-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center">
                 02
               </span>
@@ -53,7 +53,7 @@ const Step = () => {
               </p>
             </div>
 
-            <div className="relative bg-white rounded-2xl shadow-sm border p-10 text-center">
+            <div className="relative shadow-xl hover:shadow-2xl transition-all bg-white rounded-sm border p-10 text-center">
               <span className="absolute top-4 right-4 bg-gradient-to-r from-purple-600 via-violet-600 to-indigo-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center">
                 03
               </span>

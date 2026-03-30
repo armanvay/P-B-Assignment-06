@@ -38,7 +38,7 @@ function App() {
       <Hero></Hero>
       <Small></Small>
       <Tools></Tools>
-      {/* name of each tab group should be unique */}
+     
       <div className="tabs tabs-box bg-transparent font-bold justify-center mb-9">
         <input
           onClick={() => setActiveTab("Products")}

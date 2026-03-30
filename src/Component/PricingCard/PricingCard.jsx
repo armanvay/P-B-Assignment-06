@@ -4,7 +4,7 @@ import { FaCheck } from "react-icons/fa";
 const PricingSection = () => {
   return (
     <div className="flex flex-wrap justify-center gap-6 p-10  mb-30 mt-10 ">
-      <div className="bg-white border h-105 border-gray-200 p-8 rounded-3xl shadow-sm w-full max-w-[350px]">
+      <div className="bg-white hover:shadow-xl transition-all border h-105 border-gray-200 p-8 rounded-3xl shadow-sm w-full max-w-[350px]">
         <h3 className="text-xl font-bold text-gray-800">Starter</h3>
         <p className="text-gray-500 mb-6">Perfect for getting started</p>
         <div className="mb-6">
@@ -27,7 +27,7 @@ const PricingSection = () => {
         </button>
       </div>
 
-      <div className="relative  h-105 bg-gradient-to-br from-purple-600 via-violet-600 to-indigo-600 text-white p-8 rounded-3xl shadow-xl w-full max-w-[350px] scale-105">
+      <div className=" transition-all  h-105 bg-gradient-to-br from-purple-600 via-violet-600 to-indigo-600 text-white p-8 rounded-3xl shadow-xl w-full max-w-[350px] scale-105">
         <div className="absolute -top-4 left-1/2 -translate-x-1/2 bg-yellow-300 text-black text-xs font-bold px-3 py-1 rounded-full uppercase">
           Most Popular
         </div>
@@ -56,7 +56,7 @@ const PricingSection = () => {
         </button>
       </div>
 
-      <div className="bg-white border h-105 border-gray-200 p-8 rounded-3xl shadow-sm w-full max-w-[350px]">
+      <div className="bg-white hover:shadow-xl transition-all border h-105 border-gray-200 p-8 rounded-3xl shadow-sm w-full max-w-[350px]">
         <h3 className="text-xl font-bold text-gray-800">Enterprise</h3>
         <p className="text-gray-500 mb-6">For teams and businesses</p>
         <div className="mb-6">
