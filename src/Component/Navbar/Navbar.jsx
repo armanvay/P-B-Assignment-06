@@ -32,7 +32,7 @@ const Navbar = ({ cards }) => {
             <div className="flex items-center gap-2 ">
               <FaCartPlus className="text-2xl hover:text-purple-600 transition-colors" />{" "}
               <span className=" font-bold bg-red-500  absolute -mt-10 ml-4 p-1 h-5 w-5 rounded-full ">
-                <span className="text-[13px] ml-1 text-white absolute font-bold -mt-1">{cards.length === 0 ? "" : cards.length}</span>
+                <span className="text-[13px] ml-1 text-white absolute font-bold -mt-1">{cards.length === 0 ? "0" : cards.length}</span>
               </span>
             </div>
           </div>
