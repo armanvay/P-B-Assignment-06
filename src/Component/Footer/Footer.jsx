@@ -15,7 +15,6 @@ const Footer = () => {
             </p>
           </div>
 
-        
           <div>
             <h4 className="text-white font-semibold mb-4">Product</h4>
             <ul className="space-y-2">
@@ -34,7 +33,6 @@ const Footer = () => {
             </ul>
           </div>
 
-         
           <div>
             <h4 className="text-white font-semibold mb-4">Company</h4>
             <ul className="space-y-2">
@@ -53,7 +51,6 @@ const Footer = () => {
             </ul>
           </div>
 
-        
           <div>
             <h4 className="text-white font-semibold mb-4">Resources</h4>
             <ul className="space-y-2 mb-6">
@@ -80,9 +77,11 @@ const Footer = () => {
           </div>
         </div>
 
-        
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
           <p>© 2026 Digitools. All rights reserved.</p>
+          <div>
+            <p>Thanks Progamming Hero </p>
+          </div>
           <div className="flex gap-6 mt-4 md:mt-0">
             <span className="hover:text-white cursor-pointer transition">
               Privacy Policy
