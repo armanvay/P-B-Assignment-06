@@ -1,12 +1,40 @@
-# React + Vite
+# 🚀 DigiTools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DigiTools is a modern and fully responsive **React.js based digital tools marketplace web application**.
+Users can explore premium tools, add products to the cart, manage selected items, and proceed to checkout with a smooth and user-friendly experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS
+* DaisyUI
+* React Toastify
+* JSON Data
+* React Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+### 🛒 Smart Cart System
+
+Users can add products to the cart, remove items, view total price, and clear all products using the checkout button.
+
+### 🔄 Product & Cart Toggle
+
+A smooth toggle system allows users to switch between the **Products section** and the **Cart section** instantly.
+
+### 📱 Fully Responsive Design
+
+The website is optimized for **mobile, tablet, and desktop devices** with a modern premium UI.
+
+---
+
+## 🌟 Project Highlights
+
+* Premium Figma-inspired UI design
+* Live cart count update in Navbar
+* Toast notifications for add, remove, and checkout actions
